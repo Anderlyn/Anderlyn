@@ -1,17 +1,18 @@
-### Hi there 👋
-
 ![Profile Logo](https://i.imgur.com/Yf7VtAd.png)
-<!--
-**Anderlyn/Anderlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there 👋
+My real name is André, I'm a software developer making an impact in the world and inventing with a purpose. Why Anderlyn? Just my name spelled wrong. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Projects
+Want me to collaborate on your non profit project? **Please contact me!** Want me to work on your project or startup? **Please contact me!** Want me to conquer the world with you? Please don't contact me for that.
+
+## More Information About Me 🍣
+* 🗨️ Currently working for IBM
+* 🗨️ Two cats
+* 🗨️ He/him/his
+* 🗨️ I dislike coffee
+* 🗨️ I love education
+* 🗨️ 19 y.o at date
+
+## Contact Me
+Contact me using [Linkedin](https://www.linkedin.com/in/alstoria/). Also, feel free to reach me at andre.lopezc@outlook.es too!
