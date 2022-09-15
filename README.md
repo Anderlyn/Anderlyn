@@ -11,7 +11,7 @@ Want me to collaborate on your non profit project? **Please contact me!** Want m
 * 🗨️ He/him/his
 * 🗨️ I dislike coffee
 * 🗨️ I love education
-* 🗨️ 19 y.o at date
+* 🗨️ 20 y.o at date
 * 🗨️ I listen to this [playlist](https://open.spotify.com/playlist/2kE0cvz8f6YzBEKb9ZMiTc?si=1467bc103b984296) all day
 
 ## Contact Me
