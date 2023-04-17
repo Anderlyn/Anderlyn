@@ -7,7 +7,7 @@ My real name is André, I'm a software developer making an impact in education a
 Want me to collaborate on your non profit project? **Please contact me!** Want me to work on your project or startup? **Please contact me!** Want me to conquer the world with you? Please don't contact me for that.
 
 ## More Information About Me 🍣
-* 🗨️ Two cats
+* 🗨️ Three cats
 * 🗨️ He/him/his
 * 🗨️ I dislike coffee
 * 🗨️ I love education
