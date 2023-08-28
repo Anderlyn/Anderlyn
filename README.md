@@ -1,18 +1,13 @@
 ![Profile Logo](https://i.imgur.com/Yf7VtAd.png)
 
 ## Hi there 👋
-My real name is André, I'm a software developer making an impact in education and inventing with a purpose. Why Anderlyn? Just my name spelled wrong. 
-
-## About Projects
-Want me to collaborate on your non profit project? **Please contact me!** Want me to work on your project or startup? **Please contact me!** Want me to conquer the world with you? Please don't contact me for that.
+I'm currently the CEO of Casual Boredom. I code, with care and creativity.
 
 ## More Information About Me 🍣
-* 🗨️ Three cats
-* 🗨️ He/him/his
-* 🗨️ I dislike coffee
-* 🗨️ I love education
-* 🗨️ 20 y.o at date
-* 🗨️ I listen to this [playlist](https://open.spotify.com/playlist/2kE0cvz8f6YzBEKb9ZMiTc?si=1467bc103b984296) all day
+* 🗨️ Cat lover
+* 🗨️ Hate coffee gang
+* 🗨️ 21 y.o at date
+* 🗨️ I listen to this [playlist](https://open.spotify.com/playlist/2kE0cvz8f6YzBEKb9ZMiTc?si=1467bc103b984296) all-day
 
 ## Contact Me
-Contact me using [Linkedin](https://www.linkedin.com/in/alstoria/). Also, feel free to reach me at andre.lopezc@outlook.es too!
+Contact me using [Linkedin](https://www.linkedin.com/in/alstoria/). Happy to talk anytime! 
