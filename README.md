@@ -1,12 +1,14 @@
-![Profile Logo](https://i.imgur.com/Yf7VtAd.png)
+# THIS IS MY CAT SAY HI!!!
+![Cat](https://i.imgur.com/Os8Kyjq.jpg)
 
 ## Hi there 👋
-I'm currently the CEO of Casual Boredom. I code, with care and creativity.
+Stumbled upon my profile? Well, guess what: you are lucky! 'cause you just won a new, all-paid, fully equipped, and maybe a little weird friend.
 
-## More Information About Me 🍣
-* 🗨️ Cat lover
-* 🗨️ I started to drink coffee like 2 months ago
-* 🗨️ I listen to this [playlist](https://open.spotify.com/playlist/2kE0cvz8f6YzBEKb9ZMiTc?si=1467bc103b984296) all-day
+## About me 🍣
+* 🗨️ I code listening to this [playlist](https://open.spotify.com/playlist/2kE0cvz8f6YzBEKb9ZMiTc?si=1467bc103b984296)
+* 🗨️ Don't know, not good at doing lists.
+* 🗨️ [?](https://www.youtube.com/watch?v=MPYlxeG-8_w)
+
 
 ## Contact Me
-Contact me using [Linkedin](https://www.linkedin.com/in/alstoria/). Happy to talk anytime! 
+I code for a living, [:)](https://www.linkedin.com/in/alstoria/). 
